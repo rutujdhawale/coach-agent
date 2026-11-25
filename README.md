@@ -1,4 +1,4 @@
-# Examblue Performance Coach Agent
+# Coach Agent
 
 Backend service for a student performance coach built with FastAPI, Google ADK, LiteLLM (Groq primary with fallback to secondary Groq/Gemini models), and MongoDB.
 
