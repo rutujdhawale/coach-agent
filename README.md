@@ -100,5 +100,5 @@ Whether a request comes through FastAPI (`POST /api/v1/coach/chat`) or the Googl
 
 ![Future Production & Textbook RAG Architecture](assets/future_rag_architecture.png)
 
-
-
+## License
+ Apache License 2.0
